@@ -1,6 +1,6 @@
 {
   "name": "get-contrast-ratio-plus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package could get the contrast ratio between two colors, one color & the main color of an image, or the top-2 main colors of an image.",
   "main": "index.js",
   "scripts": {
