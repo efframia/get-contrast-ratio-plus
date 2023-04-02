@@ -1,0 +1,34 @@
+{
+  "name": "get-contrast-ratio-plus",
+  "version": "1.0.0",
+  "description": "This package could get the contrast ratio between two colors, one color & the main color of an image, or the top-2 main colors of an image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack"
+  },
+  "keywords": [
+    "pixels",
+    "main",
+    "color",
+    "canvas",
+    "contrast",
+    "ratio"
+  ],
+  "author": "efframia",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:efframia/get-contrast-ratio-plus.git"
+  },
+  "dependencies": {
+    "canvas": "^2.11.0",
+    "get-contrast": "^3.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "terser-webpack-plugin": "^5.3.7",
+    "webpack": "^5.77.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
